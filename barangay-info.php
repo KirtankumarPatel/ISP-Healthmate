@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<?php include 'templates/header.php' ?>
-	<title>canada Info - Healthmate</title>
+	<title>Barangay Info - Healthmate</title>
 </head>
 <body>
 	<div class="wrapper">
@@ -19,7 +19,7 @@
 								<div class="card-header">
 									<div class="card-head-row">
 										<div class="card-title text-primary">
-											<h1>MAP</h1>
+											<h1>BRGY VICINITY MAP</h1>
 										</div>
 									</div>
 								</div>
