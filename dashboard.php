@@ -73,7 +73,7 @@
 										<h5 class="card-title">
 											<strong>RESIDENTS</strong>
 										</h5>
-										<p class="card-text">Total no. of residents in the canada.</p>
+										<p class="card-text">Total no. of residents in the barangay.</p>
 										<a href="resident.php" class="btn btn-success btn-sm">View Details</a>
 									</div>
 								</div>
