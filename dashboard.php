@@ -97,7 +97,7 @@
 										<h5 class="card-title">
 											<strong>FEMALE</strong>
 										</h5>
-										<p class="card-text">Total female residents in the canada.</p>
+										<p class="card-text">Total female residents in the barangay.</p>
 										<a href="resident.php" class="btn btn-danger btn-sm">View Details</a>
 									</div>
 								</div>
