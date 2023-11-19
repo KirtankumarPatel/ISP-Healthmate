@@ -85,7 +85,7 @@
 										<h5 class="card-title">
 											<strong>MALE</strong>
 										</h5>
-										<p class="card-text">Total male residents in the canada.</p>
+										<p class="card-text">Total male residents in the barangay.</p>
 										<a href="resident.php" class="btn btn-primary btn-sm">View Details</a>
 									</div>
 								</div>
